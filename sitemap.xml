@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://alberto-bracci.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alberto-bracci.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -108,10 +113,6 @@
   
   <url>
     <loc>https://alberto-bracci.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://alberto-bracci.github.io/courses/</loc>
   </url>
   
   <url>
