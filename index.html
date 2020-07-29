@@ -92,43 +92,6 @@
 
 
 
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152394564-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-152394564-1', "{}");
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -1025,8 +988,11 @@
 
 <hr />
 
-<p>I am a Graduate Teaching Assistant for the following courses at City, University of London:
-- <font color='grey'><sup>2017</sup>&frasl;<sub>2018</sub></font> Functions, Vectors and Calculus</p>
+<p>I am a Graduate Teaching Assistant for the following courses at City, University of London:</p>
+
+<ul>
+<li><font color='grey'><sup>2017</sup>&frasl;<sub>2018</sub></font> Functions, Vectors and Calculus</li>
+</ul>
 
 <p>I have been a Tutor in Mathematics for the following courses at Politecnico di Torino:</p>
 
@@ -1045,6 +1011,12 @@
 <li><font color='grey'>2018</font> <strong>Master Scholarship</strong> - Paris Saclay International Master Scholarship</li>
 <li><font color='grey'>2018</font> <strong>Erasmus Scholarship</strong></li>
 </ul>
+
+<h2 id="referee">Referee</h2>
+
+<p>I have been a reviewer for the following journals:</p>
+
+<p>Online Social Networks and Media, EPJ Data Science</p>
 
 <h2 id="conferences-schools-and-workshops">Conferences, schools and workshops</h2>
 
