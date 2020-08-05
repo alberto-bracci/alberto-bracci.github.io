@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Alberto Bracci</title>
-    <link>alberto-bracci.github.io/post/</link>
-      <atom:link href="alberto-bracci.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>article | Alberto Bracci</title>
+    <link>alberto-bracci.github.io/tags/article/</link>
+      <atom:link href="alberto-bracci.github.io/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>article</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>alberto-bracci.github.io/img/logo.jpg</url>
-      <title>Posts</title>
-      <link>alberto-bracci.github.io/post/</link>
+      <title>article</title>
+      <link>alberto-bracci.github.io/tags/article/</link>
     </image>
     
     <item>

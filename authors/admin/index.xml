@@ -12,5 +12,16 @@
       <link>alberto-bracci.github.io/authors/admin/</link>
     </image>
     
+    <item>
+      <title>&#34;The COVID-19 online shadow economy&#34; is live on arxiv</title>
+      <link>alberto-bracci.github.io/post/covid_shadow_economy_arxiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>alberto-bracci.github.io/post/covid_shadow_economy_arxiv/</guid>
+      <description>&lt;p&gt;Our new preprint on the effect of the COVID-19 pandemic on illicit online trade is out on arxiv.&lt;/p&gt;
+
+&lt;p&gt;We monitor 23 dark web marketplaces from January to July, finding the presence of different kinds of COVID-19 related listings: PPEs, medicines (e.g. hydroxychloroquine) and medical frauds (e.g. vaccines). We measure their presence throughout the whole time period, showing correlations with public attention, using twitter and wikipedia, and misinformation. We finally show the indirect effect of the pandemic on these platforms, evidenced by an increase in mentions of delay and sales in non COVID-19 related listings.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
