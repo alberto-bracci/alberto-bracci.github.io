@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -34,41 +34,46 @@
   
   <url>
     <loc>alberto-bracci.github.io/authors/admin/</loc>
-    <lastmod>2020-08-05T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>alberto-bracci.github.io/post/covid_shadow_economy_arxiv/</loc>
-    <lastmod>2020-08-05T14:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T17:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>alberto-bracci.github.io/categories/academic/</loc>
-    <lastmod>2020-08-05T14:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T17:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>alberto-bracci.github.io/tags/article/</loc>
-    <lastmod>2020-08-05T14:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T17:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>alberto-bracci.github.io/authors/</loc>
-    <lastmod>2020-08-05T14:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T17:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>alberto-bracci.github.io/categories/</loc>
-    <lastmod>2020-08-05T14:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T17:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>alberto-bracci.github.io/post/</loc>
-    <lastmod>2020-08-05T14:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>alberto-bracci.github.io/post/hiv_netsci2020/</loc>
+    <lastmod>2020-09-25T17:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>alberto-bracci.github.io/tags/</loc>
+    <lastmod>2020-09-25T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>alberto-bracci.github.io/post/covid_shadow_economy_arxiv/</loc>
     <lastmod>2020-08-05T14:00:00+00:00</lastmod>
   </url>
   
@@ -108,11 +113,6 @@
   </url>
   
   <url>
-    <loc>alberto-bracci.github.io/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>alberto-bracci.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -145,6 +145,10 @@
   <url>
     <loc>alberto-bracci.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>alberto-bracci.github.io/courses/</loc>
   </url>
   
 </urlset>
