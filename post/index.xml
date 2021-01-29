@@ -5,12 +5,24 @@
     <link>alberto-bracci.github.io/post/</link>
       <atom:link href="alberto-bracci.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 14:00:00 +0000</lastBuildDate>
     <image>
       <url>alberto-bracci.github.io/img/logo.jpg</url>
       <title>Posts</title>
       <link>alberto-bracci.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Our new paper covered in the Daily Mail</title>
+      <link>alberto-bracci.github.io/post/daily_mail/</link>
+      <pubDate>Fri, 29 Jan 2021 14:00:00 +0000</pubDate>
+      <guid>alberto-bracci.github.io/post/daily_mail/</guid>
+      <description>&lt;p&gt;Our recent paper &amp;ldquo;Dark Web Marketplaces and COVID-19: before the vaccine&amp;rdquo; has just been covered on the Daily Mail!
+For a detailed summary of our findings, read the online article &lt;a href=&#34;https://www.dailymail.co.uk/sciencetech/article-9198535/Covid-19-medicines-PPE-tests-vaccines-sold-dark-web.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, otherwise to know more about our work, read the original paper &lt;a href=&#34;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00259-w#Abs1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Bracci, A., Nadini, M., Aliapoulios, M. et al. Dark Web Marketplaces and COVID-19: before the vaccine. EPJ Data Sci. 10, 6 (2021). &lt;a href=&#34;https://doi.org/10.1140/epjds/s13688-021-00259-w&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1140/epjds/s13688-021-00259-w&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our new report is out on EPJ Data Science!</title>
