@@ -5,7 +5,7 @@
     <link>alberto-bracci.github.io/tags/</link>
       <atom:link href="alberto-bracci.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Feb 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>alberto-bracci.github.io/img/logo.jpg</url>
       <title>Tags</title>
@@ -13,26 +13,18 @@
     </image>
     
     <item>
+      <title>Outreach Activity</title>
+      <link>alberto-bracci.github.io/tags/outreach-activity/</link>
+      <pubDate>Thu, 04 Feb 2021 13:00:00 +0000</pubDate>
+      <guid>alberto-bracci.github.io/tags/outreach-activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>article</title>
       <link>alberto-bracci.github.io/tags/article/</link>
       <pubDate>Fri, 29 Jan 2021 14:00:00 +0000</pubDate>
       <guid>alberto-bracci.github.io/tags/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>alberto-bracci.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>alberto-bracci.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>alberto-bracci.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>alberto-bracci.github.io/tags/demo/</guid>
       <description></description>
     </item>
     

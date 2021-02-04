@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Alberto Bracci</title>
-    <link>alberto-bracci.github.io/project/</link>
-      <atom:link href="alberto-bracci.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Outreach Activity | Alberto Bracci</title>
+    <link>alberto-bracci.github.io/tags/outreach-activity/</link>
+      <atom:link href="alberto-bracci.github.io/tags/outreach-activity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Outreach Activity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Feb 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>alberto-bracci.github.io/img/logo.jpg</url>
-      <title>Projects</title>
-      <link>alberto-bracci.github.io/project/</link>
+      <title>Outreach Activity</title>
+      <link>alberto-bracci.github.io/tags/outreach-activity/</link>
     </image>
     
     <item>
