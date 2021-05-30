@@ -5,20 +5,12 @@
     <link>alberto-bracci.github.io/categories/</link>
       <atom:link href="alberto-bracci.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>alberto-bracci.github.io/img/logo.jpg</url>
+      <url>/alberto-bracci.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
       <link>alberto-bracci.github.io/categories/</link>
     </image>
-    
-    <item>
-      <title>Academic</title>
-      <link>alberto-bracci.github.io/categories/academic/</link>
-      <pubDate>Fri, 29 Jan 2021 14:00:00 +0000</pubDate>
-      <guid>alberto-bracci.github.io/categories/academic/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

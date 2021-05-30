@@ -5,9 +5,9 @@
     <link>alberto-bracci.github.io/categories/academic/</link>
       <atom:link href="alberto-bracci.github.io/categories/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>alberto-bracci.github.io/img/logo.jpg</url>
+      <url>/alberto-bracci.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>alberto-bracci.github.io/categories/academic/</link>
     </image>
@@ -18,9 +18,8 @@
       <pubDate>Fri, 29 Jan 2021 14:00:00 +0000</pubDate>
       <guid>alberto-bracci.github.io/post/daily_mail/</guid>
       <description>&lt;p&gt;Our recent paper &amp;ldquo;Dark Web Marketplaces and COVID-19: before the vaccine&amp;rdquo; has just been covered on the Daily Mail!
-For a detailed summary of our findings, read the online article &lt;a href=&#34;https://www.dailymail.co.uk/sciencetech/article-9198535/Covid-19-medicines-PPE-tests-vaccines-sold-dark-web.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, otherwise to know more about our work, read the original paper &lt;a href=&#34;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00259-w#Abs1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Bracci, A., Nadini, M., Aliapoulios, M. et al. Dark Web Marketplaces and COVID-19: before the vaccine. EPJ Data Sci. 10, 6 (2021). &lt;a href=&#34;https://doi.org/10.1140/epjds/s13688-021-00259-w&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1140/epjds/s13688-021-00259-w&lt;/a&gt;&lt;/p&gt;
+For a detailed summary of our findings, read the online article &lt;a href=&#34;https://www.dailymail.co.uk/sciencetech/article-9198535/Covid-19-medicines-PPE-tests-vaccines-sold-dark-web.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, otherwise to know more about our work, read the original paper &lt;a href=&#34;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00259-w#Abs1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Bracci, A., Nadini, M., Aliapoulios, M. et al. Dark Web Marketplaces and COVID-19: before the vaccine. EPJ Data Sci. 10, 6 (2021). &lt;a href=&#34;https://doi.org/10.1140/epjds/s13688-021-00259-w&#34;&gt;https://doi.org/10.1140/epjds/s13688-021-00259-w&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -30,10 +29,8 @@ For a detailed summary of our findings, read the online article &lt;a href=&#34;
       <pubDate>Thu, 21 Jan 2021 14:00:00 +0000</pubDate>
       <guid>alberto-bracci.github.io/post/covid_epjds/</guid>
       <description>&lt;p&gt;In this work we study the effect of the COVID-19 pandemic on illicit online trade. We monitor 30 dark web marketplaces from January to November 16 2020, finding the presence of different kinds of COVID-19 related listings: PPEs, medicines (e.g. hydroxychloroquine) and medical frauds (e.g. vaccines), but also guides on scamming and COVID-19 tests. We measure their presence throughout the whole time period, showing correlations with public attention, using twitter and wikipedia, and misinformation. We finally show the indirect effect of the pandemic on these platforms, evidenced by an increase in mentions of delay and sales in non COVID-19 related listings.&lt;/p&gt;
-
-&lt;p&gt;To know more about our work, read the article &lt;a href=&#34;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00259-w#Abs1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Bracci, A., Nadini, M., Aliapoulios, M. et al. Dark Web Marketplaces and COVID-19: before the vaccine. EPJ Data Sci. 10, 6 (2021). &lt;a href=&#34;https://doi.org/10.1140/epjds/s13688-021-00259-w&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1140/epjds/s13688-021-00259-w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To know more about our work, read the article &lt;a href=&#34;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00259-w#Abs1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Bracci, A., Nadini, M., Aliapoulios, M. et al. Dark Web Marketplaces and COVID-19: before the vaccine. EPJ Data Sci. 10, 6 (2021). &lt;a href=&#34;https://doi.org/10.1140/epjds/s13688-021-00259-w&#34;&gt;https://doi.org/10.1140/epjds/s13688-021-00259-w&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -42,15 +39,11 @@ For a detailed summary of our findings, read the online article &lt;a href=&#34;
       <link>alberto-bracci.github.io/post/hiv_netsci2020/</link>
       <pubDate>Fri, 25 Sep 2020 17:00:00 +0000</pubDate>
       <guid>alberto-bracci.github.io/post/hiv_netsci2020/</guid>
-      <description>
-
-&lt;p&gt;Our work, fruit of the collaboration started at the great Complexity72h workshop, has been presented at NETSCI2020 by Benjamin! If you want more info, you can have a look at the &lt;a href=&#34;https://arxiv.org/pdf/1906.09085.pdf&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt; or at the&lt;a href=&#34;alberto-bracci.github.io/alberto-bracci.github.io/files/netsci2020_presentation.pdf&#34; target=&#34;_blank&#34;&gt; slides of the presentation&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;Our work, fruit of the collaboration started at the great Complexity72h workshop, has been presented at NETSCI2020 by Benjamin! If you want more info, you can have a look at the &lt;a href=&#34;https://arxiv.org/pdf/1906.09085.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt; or at the&lt;!-- raw HTML omitted --&gt; slides of the presentation&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;attachments&#34;&gt;Attachments&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;alberto-bracci.github.io/alberto-bracci.github.io/files/netsci2020_presentation.pdf&#34; target=&#34;_blank&#34;&gt;netsci_2020_presentation.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;alberto-bracci.github.io/alberto-bracci.github.io/files/arxiv_Prep_HIV_Gonorrhea.pdf&#34; target=&#34;_blank&#34;&gt;arxiv_Prep_HIV_Gonorrhea.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;netsci_2020_presentation.pdf&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;arxiv_Prep_HIV_Gonorrhea.pdf&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
