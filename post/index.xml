@@ -5,12 +5,33 @@
     <link>https://alberto-bracci.github.io/post/</link>
       <atom:link href="https://alberto-bracci.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 17:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alberto-bracci.github.io/media/logo_huedb5adbe1238549d2c8cd161af928c7c_238359_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
       <link>https://alberto-bracci.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Oral Presentation @IC2S2 2021</title>
+      <link>https://alberto-bracci.github.io/post/dwm_ic2s2_2021/</link>
+      <pubDate>Tue, 01 Jun 2021 17:00:00 +0000</pubDate>
+      <guid>https://alberto-bracci.github.io/post/dwm_ic2s2_2021/</guid>
+      <description>&lt;p&gt;Our work on the reaction of Dark Web Marketplaces to the COVID-19 pandemic has been accepted as an oral contribution at the International Conference on Computational Social Science (&lt;a href=&#34;https://ic2s2-2021.ethz.ch/0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2&lt;/a&gt;) , happening online between July 27 and 31, 2021.
+This is based on our two sibling papers: &lt;a href=&#34;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00259-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dark Web Marketplaces and COVID-19: Before the Vaccines&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/abs/2102.05470&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dark Web Marketplaces and COVID-19: The Vaccines&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re also at IC2S2 this summer, and you&amp;rsquo;re interested in knowing more/possible collaborations, do not hesitate to contact me!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;COVID-19 and Dark Web Marketplaces - The Vaccines&#34; is out on arxiv!</title>
+      <link>https://alberto-bracci.github.io/post/vaccines_arxiv/</link>
+      <pubDate>Mon, 10 May 2021 14:00:00 +0000</pubDate>
+      <guid>https://alberto-bracci.github.io/post/vaccines_arxiv/</guid>
+      <description>&lt;p&gt;COVID-19 vaccines appeared on Dark Web Marketplaces close to their official approval, and their numbers have been steadily rising since them.
+To know more about it, check out our &lt;a href=&#34;https://arxiv.org/abs/2102.05470&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our new paper covered in the Daily Mail</title>
