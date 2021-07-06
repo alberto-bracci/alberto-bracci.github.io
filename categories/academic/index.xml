@@ -5,12 +5,22 @@
     <link>https://alberto-bracci.github.io/categories/academic/</link>
       <atom:link href="https://alberto-bracci.github.io/categories/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 17:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alberto-bracci.github.io/media/logo_huedb5adbe1238549d2c8cd161af928c7c_238359_300x300_fit_lanczos_2.png</url>
       <title>Academic</title>
       <link>https://alberto-bracci.github.io/categories/academic/</link>
     </image>
+    
+    <item>
+      <title>&#34;Nowcasting Food Insecurity on a Global Scale&#34; is out on MedArxiv!</title>
+      <link>https://alberto-bracci.github.io/post/nowcasting_medrxiv/</link>
+      <pubDate>Tue, 06 Jul 2021 14:00:00 +0000</pubDate>
+      <guid>https://alberto-bracci.github.io/post/nowcasting_medrxiv/</guid>
+      <description>&lt;p&gt;In this work we develop machine learning models to nowcast food insecurity indicators on a global scale.
+We also propose a method to explain changes in the predicted trend in terms of the interpretable model features, an important step to make the model interpretable and help decision makers on the field.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Oral Presentation @IC2S2 2021</title>

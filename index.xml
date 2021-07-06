@@ -71,7 +71,17 @@
     </item>
     
     <item>
-      <title>Nowcasting Food Insecurity at a Global Scale</title>
+      <title>&#34;Nowcasting Food Insecurity on a Global Scale&#34; is out on MedArxiv!</title>
+      <link>https://alberto-bracci.github.io/post/nowcasting_medrxiv/</link>
+      <pubDate>Tue, 06 Jul 2021 14:00:00 +0000</pubDate>
+      <guid>https://alberto-bracci.github.io/post/nowcasting_medrxiv/</guid>
+      <description>&lt;p&gt;In this work we develop machine learning models to nowcast food insecurity indicators on a global scale.
+We also propose a method to explain changes in the predicted trend in terms of the interpretable model features, an important step to make the model interpretable and help decision makers on the field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nowcasting Food Insecurity on a Global Scale</title>
       <link>https://alberto-bracci.github.io/publication/nowcasting_food_insecurity/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://alberto-bracci.github.io/publication/nowcasting_food_insecurity/</guid>
@@ -143,9 +153,9 @@ For a detailed summary of our findings, read the online article &lt;a href=&#34;
     
     <item>
       <title>Dark Web Marketplaces and COVID-19: before the vaccine</title>
-      <link>https://alberto-bracci.github.io/publication/covid_shadow_economy/</link>
+      <link>https://alberto-bracci.github.io/publication/covid_before_vaccine/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://alberto-bracci.github.io/publication/covid_shadow_economy/</guid>
+      <guid>https://alberto-bracci.github.io/publication/covid_before_vaccine/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
