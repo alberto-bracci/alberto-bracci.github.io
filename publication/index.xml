@@ -5,12 +5,22 @@
     <link>https://alberto-bracci.github.io/publication/</link>
       <atom:link href="https://alberto-bracci.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alberto-bracci.github.io/media/logo_huedb5adbe1238549d2c8cd161af928c7c_238359_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>https://alberto-bracci.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Nowcasting Food Insecurity at a Global Scale</title>
+      <link>https://alberto-bracci.github.io/publication/nowcasting_food_insecurity/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://alberto-bracci.github.io/publication/nowcasting_food_insecurity/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Dark Web Marketplaces and COVID-19: The vaccines</title>
